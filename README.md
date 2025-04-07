@@ -24,7 +24,7 @@ This was my first real coding project, and learning to take raw Python skills in
 Asset-Pricing-Project/
 ├── Images/
 ├── datasets/
-├── .gitgnore
+├── .gitignore
 ├── Client-Facing-Report.pdf
 ├── DataAnalysis_EfficientFrontiers.ipynb
 ├── README.md
