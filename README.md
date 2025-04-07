@@ -62,9 +62,9 @@ Ensure all datasets are placed in the `/datasets` folder and figures are saved t
 
 ## Further Reading
 
+- Cuthbertson, K. & Nitzsche, D.: *Investments. Second Ed.*
 - Tsay, R.: *Analysis of Financial Time Series*
 - Meucci, A.: *Risk and Asset Allocation*
-- Lecture notes from Asset Pricing and Portfolio Optimisation at Bayes
 
 ## Authors
 
