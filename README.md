@@ -22,12 +22,13 @@ This was my first real coding project, and learning to take raw Python skills in
 
 ```
 Asset-Pricing-Project/
-├── DataAnalysis_EfficientFrontiers.ipynb
-├── Client-Facing-Report.pdf
-├── datasets/
 ├── Images/
-├── Task.pdf
+├── datasets/
+├── .gitgnore
+├── Client-Facing-Report.pdf
+├── DataAnalysis_EfficientFrontiers.ipynb
 ├── README.md
+├── Task.pdf
 ```
 
 ## Summary of Results
